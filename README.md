@@ -1,0 +1,1 @@
+# Minor-6th-Sem
