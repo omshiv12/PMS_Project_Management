@@ -1,0 +1,58 @@
+.Card{
+    
+    width: 100%;
+    height:100vh;
+    padding:40px;
+
+}
+.Card1{
+    float:left;
+    padding:35px;
+}
+.Card2 {
+    float: left;
+    padding:35px;
+}
+.Card3{
+    display: flex;
+    padding:35px;
+}
+.Card4 {
+    float:left;
+    padding:35px;
+}
+.Card5{
+    float:left;
+    padding:35px;
+}
+.Card6{
+    display: flex;
+    padding:35px;
+}
+.Card button-container{
+    
+    display: flex;
+}
+.button span{
+    display: flex;
+    margin:1rem;
+    color:#2f2d2e;
+    font:hold;
+    background-color:white;
+    border:2px solid #8e00b9;
+    padding:0.6rem;
+    border-radius:6px;
+    transition-duration: 0.5s;
+    animation: ease-in-out;
+    
+}
+button:hover{
+    background-image:linear-gradient(to left,#2d00e7,#ff0291);
+    transform: scale(1.2);
+    
+}
+
+
+
+
+

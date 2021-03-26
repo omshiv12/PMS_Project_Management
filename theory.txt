@@ -1,0 +1,15 @@
+1.babel is modern javascript compiler.
+2.render method ke aandar jo html ki form mai hota hai whi jsx aur babel use required 
+script mai change kr deta
+3. ReactDOM.render('kya dikhana hai','kha dikhana hai','callback func');
+4. If you want to use javascript inside jsx then use curly braces
+5. For using template literals then use backtig(``)
+6.for date and time use library toLcoalDateString
+7. ContentEditable to change name
+8.for inline css we are using object(all property in camelCase)
+9.The map() method create a new array with the results of callinga functiom
+  for every array element
+10.array.map(function(currentValue,index,arr),thisValue)
+
+11. useState is hook
+12.const[initial value,updated value]=useState(0)
