@@ -1,0 +1,32 @@
+@import '~antd/dist/antd.css';
+
+.Code {
+  text-align: left;
+  background-color:#ffffff ;
+}
+
+.Code-logo {
+  height: 40vmin;
+}
+
+.Code-Header {
+  
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.Code-link {
+  color: #09d3ac;
+}
+.Code-mt{
+  display: flex;
+  padding: 50;
+}
+.btn btn-primary m-2{
+  padding:10;
+}
