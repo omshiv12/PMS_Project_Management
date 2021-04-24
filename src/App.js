@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import Card from './components/card';
 import CreateProject from './components/createProject';
+import DailyTask from './components/dailyTask';
 import Dashboard from './components/dashboard';
 import EditProject from './components/EditProject';
 import NavBar from './components/navbar';
@@ -10,9 +11,10 @@ import './index.css';
 export default function App() {
   return (
     <>
+        <DailyTask/>
         {/* <CreateProject/> */}
-        <NavBar/>
-        <Dashboard/>
+        {/* <NavBar/>
+        <Dashboard/> */}
         {/* <hr style={{padding:0,margin:0}}/>
         <SubNav/>
         <hr style={{padding:0,margin:0,marginBottom:40}}/>
