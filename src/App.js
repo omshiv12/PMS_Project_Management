@@ -6,12 +6,15 @@ import DailyTask from './components/dailyTask';
 import Dashboard from './components/dashboard';
 import EditProject from './components/EditProject';
 import NavBar from './components/navbar';
+import SubCard from './subCard';
 import SubNav from './components/subNav';
+import Dbd from './Dashboard.js';
 import './index.css';
 export default function App() {
   return (
     <>
-        <DailyTask/>
+        <Dbd/>
+        {/* <DailyTask/> */}
         {/* <CreateProject/> */}
         {/* <NavBar/>
         <Dashboard/> */}
