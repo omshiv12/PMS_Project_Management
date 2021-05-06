@@ -1,0 +1,11 @@
+.taskCount{
+    margin:0px;
+    padding:0px;
+    justify-self: center;
+}
+.taskdiv
+{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}

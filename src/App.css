@@ -1,0 +1,16 @@
+html{
+    height:100%;
+    width:100%;
+    background-color:white;
+  }
+  body{
+    margin:0;
+  }
+  .link{
+    text-decoration: none;
+    color:#d00000;
+    margin:20px;
+  }
+  ::placeholder{
+    color:#d00000;
+  }
