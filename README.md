@@ -5,19 +5,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Initial Setup 
 
-# Clone the directory
+### Clone the directory
 
-# Open the terminal and open the concerned directory.
+### Open the terminal and open the concerned directory.
 
-# Run Command "npm install" to install the dependencies.
+### Run Command "npm install" to install the dependencies.
 
-# Type "cd Api" and again run "npm install" on the terminal
+### Type "cd Api" and again run "npm install" on the terminal
 
-# Now run the node API server using the command "node app.js"
+### Now run the node API server using the command "node app.js"
 
-# Again "cd .." to come back to the main directory and then run "npm start".
+### Again "cd .." to come back to the main directory and then run "npm start".
 
-# This will start the project on localhost:3000 on your browser.
+### This will start the project on localhost:3000 on your browser.
 
 
 ## Available Scripts
